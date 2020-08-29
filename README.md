@@ -1,2 +1,2 @@
-# IBM_CAPSTONE
+# Coursera_Capstone
 Repository created to IBM Capston project development
